@@ -1,0 +1,27 @@
+
+.img{
+    position:relative;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.roller{
+    position:absolute;
+    left:20px;
+    top:150px;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+
+}
+.roll{
+    position:absolute;
+    right:20px;
+    top:150px;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+
+}
